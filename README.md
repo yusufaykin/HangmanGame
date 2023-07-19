@@ -50,7 +50,7 @@ Hangman Game is a simple web-based word-guessing game built using HTML, CSS, and
 
 <img src="/images/Capture.PNG">
 
-# Gig
+# Gif
 
 <img src="/images/ezgif.com-video-to-gif (2).gif">
 
@@ -59,8 +59,7 @@ Hangman Game is a simple web-based word-guessing game built using HTML, CSS, and
 1. Clone this repo: `git clone https://github.com/username/HangmanGame.git`
 2. Navigate to the project folder: `cd HangmanGame`
 3. Install the required dependencies: `npm install`
-4. To compile the SCSS files: `npm run build`
-5. Double-click the `index.html` file to open the project in your web browser.
+4. Double-click the `index.html` file to open the project in your web browser.
 
 # Contributing
 
